@@ -1,4 +1,4 @@
 ---
-Portfolio: Luke Brunekreef
+Title: Luke Brunekreef
 Mediavormgever
 ---
