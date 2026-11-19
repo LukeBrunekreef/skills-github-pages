@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+Portfolio: Luke Brunekreef
+Mediavormgever
 ---
